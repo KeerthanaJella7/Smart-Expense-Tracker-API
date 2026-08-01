@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Vegetables",
+    "amount": 705.0,
+    "category": "Food",
+    "date": "2026-08-01",
+    "id": 1
+  },
+  {
+    "title": "Dentist",
+    "amount": 5000.0,
+    "category": "Health",
+    "date": "2026-08-01",
+    "id": 2
+  },
+  {
+    "title": "Clothes",
+    "amount": 500.0,
+    "category": "Shopping",
+    "date": "2026-08-01",
+    "id": 3
+  },
+  {
+    "title": "Electricity Bill",
+    "amount": 250.0,
+    "category": "Utilities",
+    "date": "2026-08-01",
+    "id": 4
+  }
+]
